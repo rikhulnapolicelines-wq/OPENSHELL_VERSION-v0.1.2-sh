@@ -1,0 +1,2 @@
+# OPENSHELL_VERSION-v0.1.2-sh
+Open
